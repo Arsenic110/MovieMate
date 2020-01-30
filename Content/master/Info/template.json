@@ -1,0 +1,6 @@
+{
+    "name": "Template File",
+    "director": "Some guy",
+    "releaseYear": "2020",
+    "desciption": "director and releaseYear aren't actually used, but put them in anyway."
+}
